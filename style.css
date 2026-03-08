@@ -1,0 +1,53 @@
+/* General page styling */
+body {
+  background-color: #1a1a2e;
+  color: #eaeaea;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 50px 20px;
+}
+
+/* Main content box */
+.container {
+  background-color: #16213e;
+  border-radius: 12px;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Big heading */
+h1 {
+  color: #e94560;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* Subheading */
+h2 {
+  color: #0f3460;
+  font-size: 1.3rem;
+  margin-top: 30px;
+}
+
+/* Paragraph */
+p {
+  color: #a8a8b3;
+  line-height: 1.6;
+}
+
+/* List items */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #0f3460;
+  color: #eaeaea;
+  padding: 10px 15px;
+  margin: 8px 0;
+  border-radius: 8px;
+}
